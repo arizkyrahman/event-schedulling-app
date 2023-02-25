@@ -4,7 +4,7 @@ This is a web application built with Ruby on Rails that allows users to schedule
 ## Getting Started
 To get started with this application, follow these steps:
 
-- Clone the repository: git clone https://github.com/YOUR-USERNAME/event-scheduling-app.git
+- Clone the repository: git clone https://github.com/arizkyrahman/event-schedulling-app.git
 - Install dependencies: bundle install
 - Setup the database: rails db:create && rails db:migrate
 - Run the server: rails server
